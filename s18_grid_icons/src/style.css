@@ -1,0 +1,38 @@
+body{
+  background-color: #cfe8ef;
+}
+
+h1,p{
+  text-align: center;
+  color: #006494;
+}
+
+.container{
+  display:flex;
+  background-color:#006494;
+  width:1845px;
+  margin:20px auto;
+  content:center;
+}
+
+.container div{
+  background-color:#ffc8dd;
+  margin: 10px;
+    padding: 20px;
+  font-size: 24px;
+  content:center;
+}
+
+footer{
+  background: white;
+  color:#ff90b3;
+  text-align:center;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.social a{
+  color:black;
+  margin: 0 1rem;
+  font-size:1.2rem;
+}
